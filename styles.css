@@ -1,0 +1,26 @@
+body {
+    background-color: #6290FF;
+}
+
+img {
+    width: 250px;
+    border: 3px dotted #E8C91E;
+}
+
+.header {
+    text-align: center;
+    color: #DF752B;
+    font-family: 'Original Surfer', cursive;
+}
+
+button {
+    color: lightblue;
+    font-family: 'Quicksand', sans-serif;
+}
+
+button:hover {
+    color: blue;
+}
+p {
+    font-family: 'Quicksand', sans-serif;
+}
